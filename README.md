@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @LautaroPavanSarquis. I'm a rockie web developer. Right now i'm tacking Jonas Schmedtmann's course "Java script from zero to mastery". 
